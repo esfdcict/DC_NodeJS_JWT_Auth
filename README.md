@@ -1,4 +1,4 @@
-# DC_NodeJS_JWT_Auth
+# DC NodeJS JWT Auth
 
 Authentication with nodejs and Json Web Token (JWT)
 
